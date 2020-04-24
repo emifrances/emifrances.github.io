@@ -15,7 +15,8 @@ a.link {
 }
 .header img {
     width: auto;
-    height: 50px;
+    max-height: 50px;
+    max-width: 50px;
 }
 .header a:link, a:visited, a:active {
     text-decoration: none;
