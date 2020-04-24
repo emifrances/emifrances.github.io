@@ -7,6 +7,9 @@ body {
     font-size: 14px;
     color: black;
 }
+a.link {
+    color: black;
+}
 .header {
     text-align: center;
 }
